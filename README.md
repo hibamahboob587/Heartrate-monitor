@@ -16,3 +16,4 @@ This project reads heart rate using the MAX30102 sensor and displays the average
 - MAX30102 → SDA, SCL → Arduino A4, A5 (with 4.7kΩ pull-ups)
 - OLED → SDA, SCL → Shared with MAX30102
 - Power → 3.3V / GND
+![Screenshot 2025-06-23 010133](https://github.com/user-attachments/assets/7f6ef149-ee3d-4796-92ab-e20059832167)
